@@ -1,0 +1,184 @@
+{
+  "heading": "G6_Poetry writing(MCQs)",
+  "topics": [
+    {
+      "heading": "Poetry writing(MCQs)",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "What is the main purpose of writing a poem?"
+    ],
+    "options": [
+      { "text": "To give instructions" },
+      { "text": "To tell a factual report" },
+      { "text": "To express ideas, feelings, and imagination" },
+      { "text": "To write only rhyming words" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Which of the following best describes a stanza?"
+    ],
+    "options": [
+      { "text": "A single word in a poem" },
+      { "text": "A line in a poem" },
+      { "text": "A group of lines in a poem" },
+      { "text": "The title of the poem" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Which sentence is an example of imagery?"
+    ],
+    "options": [
+      { "text": "The boy is happy." },
+      { "text": "The bright red kite danced in the windy sky." },
+      { "text": "I like summer." },
+      { "text": "She is kind." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Which of the following is a simile?"
+    ],
+    "options": [
+      { "text": "Her smile is like sunshine." },
+      { "text": "The classroom was a zoo." },
+      { "text": "The sun is a giant fireball." },
+      { "text": "Time is a thief." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Which sentence contains a metaphor?"
+    ],
+    "options": [
+      { "text": "He runs like the wind." },
+      { "text": "My teacher is a shining star." },
+      { "text": "The baby is as soft as cotton." },
+      { "text": "She sings beautifully." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "What does mood in a poem mean?"
+    ],
+    "options": [
+      { "text": "The title of the poem" },
+      { "text": "The number of lines" },
+      { "text": "The feeling the reader gets" },
+      { "text": "The poet's name" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "What is meant by flow in a poem?"
+    ],
+    "options": [
+      { "text": "The number of stanzas" },
+      { "text": "The title of the poem" },
+      { "text": "The meaning of the poem" },
+      { "text": "How smoothly the poem moves when read" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "What does pentameter mean?"
+    ],
+    "options": [
+      { "text": "Five stanzas in a poem" },
+      { "text": "Five words in a line" },
+      { "text": "Five beats in a line of poetry" },
+      { "text": "Five rhyming words" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Why is progression important in a poem?"
+    ],
+    "options": [
+      { "text": "It helps the poem rhyme" },
+      { "text": "It shows how the poem moves from beginning to end" },
+      { "text": "It adds more stanzas" },
+      { "text": "It makes the poem funny" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Which part of a poem usually shows a solution or final learning?"
+    ],
+    "options": [
+      { "text": "The ending" },
+      { "text": "The middle" },
+      { "text": "The beginning" },
+      { "text": "The title" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "What does the proverb \"A lean agreement is better than a fat lawsuit\" suggest?"
+    ],
+    "options": [
+      { "text": "Legal battles are always profitable." },
+      { "text": "It is wiser to accept a simple compromise than face a long, costly dispute." },
+      { "text": "Winning in court is more important than peace." },
+      { "text": "Agreements should always be avoided." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "In which situation would you use the proverb \"A leopard doesn't change its spots\"?"
+    ],
+    "options": [
+      { "text": "When someone learns a new skill quickly." },
+      { "text": "When a person repeatedly returns to their old bad habits." },
+      { "text": "When a company signs a fair contract." },
+      { "text": "When a friend surprises you with kindness." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "What does \"silver-threaded\" most nearly describe?"
+    ],
+    "options": [
+      { "text": "A strong rope" },
+      { "text": "Hair mixed with silver-coloured strands" },
+      { "text": "A shiny metal rod" },
+      { "text": "A wet road" }
+    ],
+    "answer": 1
+  }
+
+
+]
+
+
+    }
+  ]
+}
